@@ -87,7 +87,4 @@ Ultimately, it helps Organic India **enhance profitability 🚀** and **optimize
 - **Reporting & Dashboards**: Power BI interactive dashboards
 - **Database**: Structured sales and customer transaction data
 
----
-
-## 📁 Project Structure
 
